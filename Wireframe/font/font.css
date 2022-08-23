@@ -1,0 +1,325 @@
+*
+{
+    font-family: 'Inter';
+}
+
+header h5
+{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 0.9rem;
+    line-height: 22px;
+    letter-spacing: -0.1px;
+    color: #1C1C1C;
+}
+.hero-header h1
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -1.2px;
+    color: #1C1C1C;
+}
+
+.hero-header p
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100%;
+    line-height: 30px;
+    letter-spacing: -0.3px;
+    color:#585757;
+}
+
+.subscribe p
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: -0.1px;
+    color: #969696;
+}
+
+.subscribe form #name::-webkit-input-placeholder
+{
+    font-size: 20px;
+}
+
+.subscribe form #mail::-webkit-input-placeholder
+{
+    font-size: 20px;
+}
+.subscribe form #sub
+{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: -0.2px;
+    color: #FFFFFF;
+}
+.page2 p
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+
+    text-align: center;
+    letter-spacing: -0.3px;
+
+    color: #585757;
+}
+.page3 .textBlock1 h4
+{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -0.4px;
+}
+.page3 .textBlock1 p
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: -0.2px;
+    color: #545454;
+}
+.page3 .textBlock2 h4
+{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -0.4px;
+}
+.page3 .textBlock2 p
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: -0.2px;
+    color: #545454;
+
+}
+.page3 .textBlock3 h4
+{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -0.4px;
+}
+.page3 .textBlock3 p
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: -0.2px;
+    color: #545454;
+
+}
+.page4 .block1 h2
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    letter-spacing: -0.8px;
+}
+.page4 .block2 h2
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    letter-spacing: -0.8px;
+}
+.page4 .block3 h2
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    letter-spacing: -0.8px;
+}
+.page4 .block4 h2
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    letter-spacing: -0.8px;
+}
+.page4 .sidePara .p1
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: -0.2px;
+    color: #585757;
+
+}
+.page4 .sidePara .p2
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: -0.1px;
+    color: #969696;
+
+}
+.page5 .heading h1
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: -1.2px;
+    color: #1C1C1C;
+}
+.page5 .heading p
+{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: -0.3px;
+    color: #585757;
+
+}
+.page5 .features .feature1 h5
+{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.1px;
+    color: #1C1C1C;
+}
+.page6 .quote
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: -0.3px;
+    color: #585757;
+}
+.page6 .name h4
+{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: -0.2px;
+    color: #1C1C1C;
+}
+.page6 .name p
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.2px;
+    color: #585757;
+}
+.page6 h5
+{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.1px;
+    color: #24AFB5;
+}
+.page7 .free .feature
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.2px;
+    color: #585757;
+}
+.page7 .free h4{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: -0.2px;
+    color: #1C1C1C;
+}
+.page7 .free h1
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: -1.2px;
+    color: #1C1C1C;
+}
+.page7 .free .example
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: -0.1px;
+    color: #969696;
+}
+.page7 .pro .feature
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.2px;
+    color: #585757;
+}
+.page7 .pro h4{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: -0.2px;
+    color: #1C1C1C;
+}
+.page7 .pro h1
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: -1.2px;
+    color: #1C1C1C;
+}
+.page7 .pro .example
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: -0.1px;
+    color: #969696;
+}
